@@ -1,0 +1,2 @@
+str  = "Amit$$$"
+print (find($))
